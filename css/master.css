@@ -975,7 +975,7 @@ header .container nav .fa-search {
 }
 .footer {
   height: 381px;
-  background-image: url(/images/subscribe.jpg);
+  background-image: url(images/subscribe.jpg);
   background-size: cover;
   position: relative;
 }
