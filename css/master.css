@@ -156,7 +156,7 @@ header .container nav .fa-search {
 }
 .landing {
   height: 100vh;
-  background-image: url(images/pexels-carlos-oliva-3586966.jpg);
+  background-image: url(../images/pexels-carlos-oliva-3586966.jpg);
   background-size: cover;
   position: relative;
 }
@@ -286,7 +286,7 @@ header .container nav .fa-search {
 }
 .design {
   height: 600px;
-  background-image: url(images/design-features.jpg);
+  background-image: url(../images/design-features.jpg);
   background-size: cover;
   display: flex;
   align-items: center;
@@ -468,7 +468,7 @@ header .container nav .fa-search {
 .about-content {
   padding-top: var(--section-padding);
   padding-bottom: var(--section-padding);
-  background-image: url(images/pexels-photo-169789.jpeg);
+  background-image: url(../images/pexels-photo-169789.jpeg);
   position: relative;
 }
 .about-content::after {
@@ -682,7 +682,7 @@ header .container nav .fa-search {
 .quote {
   padding-top: var(--section-padding);
   padding-bottom: var(--section-padding);
-  background-image: url(images/pexels-photo-3075993.jpeg);
+  background-image: url(../images/pexels-photo-3075993.jpeg);
   background-size: cover;
   text-align: center;
   position: relative;
@@ -815,7 +815,7 @@ header .container nav .fa-search {
 .join-us {
   padding-top: var(--section-padding);
   padding-bottom: var(--section-padding);
-  background-image: url(images/subscribe.jpg);
+  background-image: url(../images/subscribe.jpg);
   background-size: cover;
   position: relative;
 }
@@ -975,7 +975,7 @@ header .container nav .fa-search {
 }
 .footer {
   height: 381px;
-  background-image: url(images/subscribe.jpg);
+  background-image: url(../images/subscribe.jpg);
   background-size: cover;
   position: relative;
 }
